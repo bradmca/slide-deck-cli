@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/slide-deck-cli/actions/workflows/ci.yml">
-    <img src="https://github.com/YOUR_USERNAME/slide-deck-cli/actions/workflows/ci.yml/badge.svg" alt="CI Status">
+  <a href="https://github.com/bradmca/slide-deck-cli/actions/workflows/ci.yml">
+    <img src="https://github.com/bradmca/slide-deck-cli/actions/workflows/ci.yml/badge.svg" alt="CI Status">
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-purple.svg" alt="License">
@@ -61,7 +61,7 @@ Most presentation tools are either too complex (PowerPoint/Keynote) or too rigid
 
 ```bash
 # Clone the universe
-git clone https://github.com/YOUR_USERNAME/slide-deck-cli.git
+git clone https://github.com/bradmca/slide-deck-cli.git
 cd slide-deck-cli
 
 # Install dependencies

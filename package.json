@@ -32,12 +32,12 @@
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/slide-deck-cli.git"
+    "url": "https://github.com/bradmca/slide-deck-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/slide-deck-cli/issues"
+    "url": "https://github.com/bradmca/slide-deck-cli/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/slide-deck-cli#readme",
+  "homepage": "https://github.com/bradmca/slide-deck-cli#readme",
   "engines": {
     "node": ">=18.0.0"
   },

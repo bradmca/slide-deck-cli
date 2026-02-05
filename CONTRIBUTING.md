@@ -42,7 +42,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/slide-deck-cli.git
+git clone https://github.com/bradmca/slide-deck-cli.git
 cd slide-deck-cli
 
 # Install dependencies
