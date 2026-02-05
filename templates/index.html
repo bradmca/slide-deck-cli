@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>{{TITLE}}</title>
+    <link rel="stylesheet" href="_assets/dist/reset.css" />
+    <link rel="stylesheet" href="_assets/dist/reveal.css" />
+    <link rel="stylesheet" href="_assets/dist/theme/black.css" id="theme" />
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="_assets/plugin/highlight/monokai.css" />
+    <style>
+      /* Custom additional styles for "premium" feel could go here */
+      .reveal pre code {
+        max-height: 600px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          data-markdown
+          data-separator="^\r?\n---\r?\n$"
+          data-separator-vertical="^\r?\n--\r?\n$"
+        >
+          <script type="text/template">
+            {{CONTENT}}
+          </script>
+        </section>
+      </div>
+    </div>
+
+    <script src="_assets/dist/reveal.js"></script>
+    <script src="_assets/plugin/notes/notes.js"></script>
+    <script src="_assets/plugin/markdown/markdown.js"></script>
+    <script src="_assets/plugin/highlight/highlight.js"></script>
+    <script>
+      Reveal.initialize({
+        hash: true,
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+        // Auto-animate is a nice premium feature
+        autoAnimate: true,
+      });
+
+      /* RELOAD_SCRIPT */
+    </script>
+  </body>
+</html>
