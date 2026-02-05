@@ -131,6 +131,4 @@ This project is licensed under the **MIT License**. Build something awesome!
 
 ---
 
-<p align="center">
-  Made with ❤️ by the Slide-Deck-CLI Team
-</p>
+⭐ If this project helps you, please give it a star!
