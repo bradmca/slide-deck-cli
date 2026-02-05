@@ -4,7 +4,7 @@
   <img src="logo.svg" width="120" height="120" alt="Slide-Deck-CLI Logo">
 </p>
 
-<h3 align="center">The God-Tier Markdown to Presentation Engine</h3>
+<h3 align="center">The Markdown to Presentation Engine</h3>
 
 <p align="center">
   <strong>Transform your Markdown into stunning, interactive Reveal.js presentations in seconds.</strong>
